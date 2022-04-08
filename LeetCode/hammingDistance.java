@@ -1,3 +1,4 @@
+//Solved without using Xor.
 public static int hammingDistance(int x, int y) {
         int difference = 0;
 
